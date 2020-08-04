@@ -1,0 +1,4 @@
+.idea
+alphabetical-group-by-task.iml
+target/
+src/main/resources/testSentences.txt
